@@ -4,7 +4,7 @@
 
 🧠Amante da tecnologia e inovação
 
-👨‍🎓Estudante de DATA SCIENCE 
+👨‍🎓Estudante de DATA SCIENCE e Cloud Computing
 
 📫 andrevlportela@oulook.com
 
